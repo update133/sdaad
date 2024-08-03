@@ -1,7 +1,9 @@
 -- This file was generated using Luraph Obfuscator v14.1 [https://lura.ph/]
 _G.xxx = true
 
-
+client.exec = function(a)
+    print("Angelwings cracked, who next???")
+end
 
 writefile("angelbase.json", '{"key":"niggersex","username":"Monstry"}');
 
